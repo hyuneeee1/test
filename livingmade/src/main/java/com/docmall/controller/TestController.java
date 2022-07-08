@@ -7,7 +7,8 @@ import org.springframework.stereotype.Service;
 @Service
 public class TestController {
 
-	public void test() {
+	public String test() {
 		
+		return "";		
 	}
 }
